@@ -1,6 +1,8 @@
 #!/bin/bash
+echo "Write project name"
+read projectName
 
-projectPath="./newWebProject"
+projectPath="./"$projectName
 
 mkdir $projectPath
 
