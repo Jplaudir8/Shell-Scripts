@@ -18,6 +18,7 @@ echo "<!DOCTYPE html>
 </head>
 <body>
     
+    <script src="js/main.js"></script>
 </body>
 </html>" >> $projectPath"/index.html"
 
